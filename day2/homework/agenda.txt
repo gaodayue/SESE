@@ -1,0 +1,26 @@
+Date/Time: October 10, 2013 10 am to 11:30 am
+Location: Conference Room A
+Attendees: Dayue Gao, Joe Smith, John Doe, Sally Mill, Jane Green
+
+
+OBJECTIVE
+---------
+
+Discuss requirements and define functionalities of 'gpbox', which is an internal tool based on some cloud storage service.
+
+
+SCHEDULE
+--------
+
+10:00 to 10:15: Project motivation - Dayue Gao
+10:15 to 10:30: Cloud storage services survey report - Joe Smith
+10:30 to 11:00: Discussion of tool's functionalities - All
+11:00 to 11:20: Make development plan - Dayue Gao
+11:20 to 11:30: Questions and comments - All
+
+
+ROLES/RESPONSIBILITIES
+----------------------
+
+Meeting host: Dayue Gao
+Record meeting minutes: Jane Green

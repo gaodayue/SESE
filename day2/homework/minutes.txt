@@ -1,0 +1,36 @@
+'gpbox' project start meeting
+October 10, 2013
+
+
+Meeting called to order at 10 am by lead Dayue Gao
+
+
+Members present:
+Dayue Gao, lead
+Joe Smith, member
+John Doe, member
+Sally Mill, member
+Jane Green, intern
+
+Members absent:
+(none)
+
+
+Business:
+
+Motion from Joe Smith to choose Baidu Cloud Disk service.
+Vote: 4 in favor, 1 opposed, 0 abstained
+Resolved: Motion carried
+
+
+Motion from John Doe to draft a functional requirement specification this week.
+Vote: 5 in favor, 0 opposed, 0 abstained
+Resolved: Motion carried
+
+
+Motion from Dayue Gao to make December 10, 2013 the project deadline.
+Vote: 5 in favor, 0 opposed, 0 abstained
+Resolved: Motion carried
+
+
+Meeting adjourned at 11:35 am.
