@@ -1,0 +1,29 @@
+Weekly Report of September 23, GPBOX project
+
+Summary:
+
+In this week, I prototyped a python wrapper for BCDS (Baidu Cloud Disk Service).
+
+
+Completed:
+
+
+1. Investigate the authorization and authentification mechanism of BCDS.
+2. Choose python-oauth2 as the OAuth client lib.
+3. Implemented our python library called 'PyBCDS' to make interacting with BCDS much more easily.
+4. Test basic functionalities of PyBCDS.
+5. (Misc) Designed a logo for GPBOX.
+
+
+To-Do:
+
+
+1. Add unit tests for PyBCDS to make the code coverage no less than 80%.
+2. Write documentation for PyBCDS.
+3. Work with John Doe on GPBOX web backend.
+
+
+Issues/Comments:
+
+1. BCDS limits its client's API calls to 500 times/day, which is only enough for development. We should apply for an upgraded account when put GPBOX into production.
+
