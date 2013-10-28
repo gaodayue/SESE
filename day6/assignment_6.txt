@@ -1,0 +1,10 @@
+App Code Signing
+应用程序代码签名
+
+Once the iOS kernel has booted, it controls which user processes and apps can be run. To ensure that all apps come from a known and approved source and have not been tampered with, iOS requires that all executable code be signed using an Apple-issued certificate. Apps provided with the device, like Mail and Safari, are signed by Apple. Third-party apps must also be validated and signed using an Apple-issued certificate. Mandatory code signing extends the concept of chain of trust from the OS to apps, and prevents third-party apps from loading unsigned code resources or using self-modifying code.
+
+iOS内核启动后，将控制哪些用户进程和应用程序可以运行。为了确保所有的应用程序来自Apple已知并认可的来源，没有被篡改过代码，iOS要求所有可执行代码使用Apple发布的证书进行签名。设备自带的应用程序，如邮件和Safari浏览器，都经过了Apple的签名。第三方应用程序同样必须使用Apple发布的证书进行验证和签名。强制代码签名将信任链的概念从操作系统延伸到了应用程序，阻止了第三方应用程序加载未签名的代码资源或使用自修改的代码。
+
+In order to develop and install apps on iOS devices, developers must register with Apple and join the iOS Developer Program. The real-world identity of each developer, whether an individual or a business, is verified by Apple before their certificate is issued. This certificate enables developers to sign apps and submit them to the App Store for distribution. As a result, all apps in the App Store have been submitted by an identifiable person or organization, serving as a deterrent to the creation of malicious apps. They have also been reviewed by Apple to ensure they operate as described and don’t contain obvious bugs or other problems. In addition to the technology already discussed, this curation process gives customers confidence in the quality of the apps they buy.
+
+为了在iOS设备上开发和安装应用程序，开发者必须在Apple注册账号并加入iOS开发者项目。Apple会先核实每位开发者（可以是个人或企业）的现实身份，然后才发放证书。有了证书，开发者就可以对应用程序进行签名，并提交程序到App Store进行分发。因此，App Store中所有应用程序提交者的身份是可识别的， 这就有效威慑了恶意应用程序的创建。应用程序还会接受Apple的审查以确保它们实际运行效果与描述一致，并且没有明显的BUG或问题。除了刚才讨论的技术，这个内容审查的过程给了消费者对所购买应用程序质量的信心。
