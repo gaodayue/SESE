@@ -43,7 +43,6 @@ From <http://en.wikipedia.org/wiki/Robert_Cecil_Martin>
 
 # Introduction
 
-
 ----
 
 # 1 Clean Code
@@ -59,7 +58,7 @@ From <http://en.wikipedia.org/wiki/Robert_Cecil_Martin>
 
 	-	Bjarne Stroustrup, inventor of C++ and author of The C++ Programming Language
 	-	Grady Booch, author of Object Oriented Analysis and Design with Applications
-	-	“Big” Dave Thomas, founder of OTI, godfather of the Eclipse strategy
+	-	"Big" Dave Thomas, founder of OTI, godfather of the Eclipse strategy
 	-	Michael Feathers, author of Working Effectively with Legacy Code
 	-	Ron Jeffries, author of Extreme Programming Installed and Extreme Programming Adventures in C#
 	-	Ward Cunningham, inventor of Wiki, inventor of Fit, coinventor of eXtreme Programming. 
@@ -183,7 +182,7 @@ From <http://en.wikipedia.org/wiki/Robert_Cecil_Martin>
 
 *	The Purpose of Formatting
 
-##		Vertical Formatting
+## Vertical Formatting
 
 *	The Newspaper Metaphor
 *	Vertical Openness Between Concepts
@@ -197,7 +196,7 @@ From <http://en.wikipedia.org/wiki/Robert_Cecil_Martin>
 	
 *	Vertical Ordering
 
-##		Horizontal Formatting
+## Horizontal Formatting
 
 *	Horizontal Openness and Density
 *	Horizontal Alignment
@@ -206,10 +205,9 @@ From <http://en.wikipedia.org/wiki/Robert_Cecil_Martin>
 	-	Breaking Indentation
 	-	Dummy Scopes
 
+## Team Rules
 
-##		Team Rules
-
-##		Uncle Bob’s Formatting Rules
+## Uncle Bob’s Formatting Rules
 
 ----
 
@@ -222,10 +220,7 @@ From <http://en.wikipedia.org/wiki/Robert_Cecil_Martin>
 		
 		Procedural code makes it hard to add new data structures because all the functions must change. OO code makes it hard to add new functions because all the classes must change.
 
-*	The Law of Demeter 
-
-	<http://en.wikipedia.org/wiki/Law_of_Demeter>
-
+*	The Law of Demeter <http://en.wikipedia.org/wiki/Law_of_Demeter>
 *	Train Wrecks
 *	Hybrids
 *	Hiding Structure
@@ -296,8 +291,9 @@ From <http://en.wikipedia.org/wiki/Robert_Cecil_Martin>
 
 ----
 
-#	10 Classes
+# 10 Classes
 		with Jeff Langr
+
 *	Class Organization
 	-	Encapsulation
 *	Classes Should Be Small!
@@ -306,10 +302,12 @@ From <http://en.wikipedia.org/wiki/Robert_Cecil_Martin>
 *	Maintaining Cohesion Results in Many Small Classes
 *	Organizing for Change
 *	Isolating from Change	
+
 ----
 
 # 11 Systems
 		by Dr. Kevin Dean Wampler
+
 *	How Would You Build a City?
 *	Separate Constructing a System from Using It
 *	Factories
@@ -324,10 +322,13 @@ From <http://en.wikipedia.org/wiki/Robert_Cecil_Martin>
 *	Use Standards Wisely, When They Add Demonstrable Value
 *	Systems Need Domain-Specific Languages
 *	Conclusion
+
 ----
-#	12 Emergence
+
+# 12 Emergence
 		by Jeff Langr
-*	Getting Clean via Emergent Design		
+
+*	Getting Clean via Emergent Design
 *	According to Kent, a design is “simple” if it follows these rules:
 	-	Runs all the tests
 	-	Contains no duplication
@@ -335,10 +336,12 @@ From <http://en.wikipedia.org/wiki/Robert_Cecil_Martin>
 	-	Minimizes the number of classes and methods
 
 ----
+
 # 13 Concurrency
 		by Brett L. Schuchert
 
-		“Objects are abstractions of processing. Threads are abstractions of schedule.”														—James O. Coplien
+		"Objects are abstractions of processing. Threads are abstractions of schedule."
+					—James O. Coplien
 
 *	Why Concurrency?
 *	Myths and Misconceptions
@@ -386,13 +389,16 @@ From <http://en.wikipedia.org/wiki/Robert_Cecil_Martin>
 *	Conclusion
 
 ----
+
 # 15 JUnit Internals
+
 *	The JUnit Framework
 *	Conclusion
 
 ----
 
 # 16 Refactoring SerialDate
+
 *	First, Make It Work
 
 		Clover, Java and Groovy Code Coverage. <https://www.atlassian.com/software/clover/overview>
@@ -416,8 +422,10 @@ From <http://en.wikipedia.org/wiki/Robert_Cecil_Martin>
 ----
 
 # Appendix A
-##	Concurrency II
+
+## Concurrency II
 		by Brett L. Schuchert
+
 *	Client/Server Example
 *	Possible Paths of Execution
 *	Knowing Your Library
@@ -434,11 +442,15 @@ From <http://en.wikipedia.org/wiki/Robert_Cecil_Martin>
 ----
 
 # Appendix B
+
 ## org.jfree.date.SerialDate
 
 ----		
-#	Appendix C
+
+# Appendix C
+
 ## Cross References of Heuristics
+
 ----
 
 # Epilogue
