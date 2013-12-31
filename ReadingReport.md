@@ -17,7 +17,7 @@ Programming is hard. Most of us just do it, but not do it in an efficient way. S
 1. be aware of the larger context of immediate problem.
 2. take responsibility for everything you do.
 
-I feel these two points are essential not only to programming, but also to any other work if you want to do it well. When apply to programming, being responsible, you won't make any excuse for bugs in your software, you won't sit idly by and watch your project fall apart through neglect. Thinking beyond the immediate problem, you will try to make design which meets project's requirements rather than pursue for perfect and impractical solution.
+I feel these two points are essential not only to programming, but also to any other work if you want to do it well. When apply to programming, being responsible, you won't make any excuse for bugs in your software, you won't sit idly by and watch your project fall apart through neglect. Thinking beyond the immediate problem, you will try to make design which meets project's requirements rather than pursue for perfect but impractical solution.
 
 ## Am I a pragmatic programmer?
 
@@ -28,15 +28,15 @@ Yes and No.
 In this book, these are the topics I enjoyed and learned the most from:
 
 * **The Broken Window Theory**. One broken window (bad designs, wrong decisions, poor code), left unprepared for any substantial length of time, instills in the inhabitants of the building a sense of abandonment. Then another window gets broken, people start littering and finally abandonment becomes reality.
-* **Orthogonal** design*  and **Reversible** design. The first requires you to make each module self-contained and minimize dependencies between modules, the second warns you about irreversible decisions and encourages you to think about flexible design.
+* **Orthogonal** design  and **Reversible** design. The first requires you to make each module self-contained and minimize dependencies between modules, the second warns you about irreversible decisions and encourages you to think about more flexible design.
 * **Defensive programming**. Knowing that no one writes perfect code, including yourself, you should code in defense of your own mistakes using technologies like Design By Contract, Assertion, Exceptions, etc.
 * **When to Use Exceptions**. A sub-topic of defensive programming which deserves more looks since lots of programmers use exceptions every day in a wrong way.
 
 ## How to be a great programmer?
 
-This book tells you how to program in a way that you can follow. If you follow the advices given by the authors, you will become more and more productive and eventually be one of your company's top programmers. It's great, but I want to take one step further. How can I become such a great programmer like the authors? Apparently they are pragmatic programmers themselves, but they even know how to tell us how to do it, they know the secret.
+This book tells you how to program in a way that you can follow. If you follow the advices given by the authors, you will become more and more productive and eventually be one of your company's top programmers. It's great, but I want to take one step further. How can I become such a great programmer like the authors? Apparently they are pragmatic programmers themselves, but they even know how to tell us the way to do it, they know the secret.
 
-Is it only because the authors are smarter than us? Maybe. But I found the 'secret' in the foreword:
+Is it only because the authors are smarter than us? Maybe. But I found some secret in the foreword:
 
 > They paid attention to what they were doing while they were doing it--and then they tried to do it better.
 
